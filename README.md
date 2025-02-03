@@ -1,4 +1,5 @@
-# OLA-PowerBI-
+# OLA-PowerBI-Project
+
 Power BI dashboard and SQL queries for OLA ride analytics
 
 SQL Questions:
